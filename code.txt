@@ -1,17 +1,4 @@
 
 
 
-read $a
-
-read $b
-   
- if [ $a -nq $b ]
- 
-     then
-           echo "True"
-                            else
-   echo "false"
-fi
-
-
-
+echo "code works"
