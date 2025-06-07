@@ -1,0 +1,8 @@
+a=8
+b=9
+if [ $a -eq $b ]
+then
+ echo "True"
+else
+echo "false"
+fi
